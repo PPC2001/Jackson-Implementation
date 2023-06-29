@@ -1,0 +1,10 @@
+{
+	"sid": 100,
+	"marks": 400,
+	"name": "Pratik",
+	"address": {
+		"flatno": 72,
+		"buildingName": "Lodha Towers",
+		"area": "Mumbai"
+	}
+}
